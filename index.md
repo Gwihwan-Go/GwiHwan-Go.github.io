@@ -1,28 +1,26 @@
 ---
 title: Gwihwan Go
 feature_text: |
-  ## 안녕하세요! 哈喽！
+  ## 안녕하세요!！
   Welcome to my page!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PH.D candidates supervised by Yu jiang"
 ---
 
-Gwihwan, hello, hello, check
-some plans, I should deal with in my brain
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am currently a first-year Ph.D student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of utilizing DL, and testing DL systems. I also enjoy piano, badminton, football, and basketball.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## News
+
+### 🔥 News
 
 - I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
-## 📝 Publications
+### 📝 Publications
 
 I'm doing my best!!!!
 - None
 
-## 🎖 Honors and Awards
+### 🎖 Honors and Awards
 
 - [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
@@ -30,11 +28,11 @@ I'm doing my best!!!!
 
 - Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
-## 📖 Experience
+### 📖 Experience
 
-- Research Intern at [WingTech Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
+- Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
-- Participants at Media Monitoring Team, Korea Foundation For Suicide Prevention, Korea (Oct. 2022 ~ Dec. 2022) / Automating Suicide-risk information detection in SNS, development of Suicide-risk information class
+- Participated in the Media Monitoring Team at the Korea Foundation For Suicide Prevention and received an excellence award for automating suicide-risk information detection in SNS (Oct. 2022 ~ Dec. 2022)
 
 - Research Intern at Social AI team, Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Korea (Feb. 2022 ~ Aug. 2022) / Sentiment analysis of SNS(微博) data, analysis of mobility data, and COVID-19 forecasting
 
@@ -46,8 +44,11 @@ I'm doing my best!!!!
 
 - Pursuing a Ph.D. degree at Tsinghua University since Sep. 2023
 
-- Graduated with a B.S. degree in Software from the Department of Applied AI at Sungkyunkwan University in Feb. 2023
+- Completed a B.S. degree in Software from the Department of Applied AI at Sungkyunkwan University with a 4.22/4.5 GPA in Feb. 2023
 
+### 📚 Hobbies
+
+- Piano, Badminton, football, basketball, , ...
 
 <!-- ## Customising
 
