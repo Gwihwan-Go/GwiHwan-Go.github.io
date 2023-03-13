@@ -1,7 +1,7 @@
 ---
 title: Gwihwan Go
 feature_text: |
-  ## 안녕하세요!！
+  ## 안녕하세요!!
   Welcome to my page!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PH.D candidates supervised by Yu jiang"
@@ -10,15 +10,11 @@ excerpt: "I am a PH.D candidates supervised by Yu jiang"
 I am currently a first-year Ph.D student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of utilizing DL, and testing DL systems. I also enjoy piano, badminton, football, and basketball.
 
 
-
 ### 🔥 News
 
 - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
 ### 📝 Publications
-
-I'm doing my best!!!!
-- None
 
 ### 🎖 Honors and Awards
 
@@ -28,7 +24,7 @@ I'm doing my best!!!!
 
 - Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
-### 📖 Experience
+### 📖 Experiences
 
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
