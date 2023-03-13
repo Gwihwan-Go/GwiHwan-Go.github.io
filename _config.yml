@@ -39,10 +39,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: Gwihwan Go # jekyll-seo-tag > Owners twitter username
-author: Gwihwan Go # jekyll-seo-tag > default author
+  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Gwihwan Go # jekyll-seo-tag > real name
+  name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/DavidDarnes
     - https://www.facebook.com/daviddarnes
@@ -131,14 +131,13 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Gwihwan Go
+- title: Contact Me
+  url: /contact/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/Gwihwan_Go
   LinkedIn: https://www.linkedin.com/in/%EA%B7%80%ED%99%98-%EA%B3%A0-9687b323a/
   GitHub: https://github.com/Gwihwan-Go
-  link: https://darn.es
-  Instagram: @returnn_go
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
