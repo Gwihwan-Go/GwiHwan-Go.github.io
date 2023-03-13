@@ -10,23 +10,22 @@ excerpt: "I am a PH.D candidates supervised by Yu jiang"
 I am currently a first-year Ph.D student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of utilizing DL, and testing DL systems. I also enjoy piano, badminton, football, and basketball.
 
 
-- 🔥 News
-----------------
+##### 🔥 News
+
 - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
-- 📝 Publications
-----------------
+##### 📝 Publications
 
-- 🎖 Honors and Awards
-----------------
+##### 🎖 Honors and Awards
+
 - [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
 - Student Success Scholarship, Sungkyunkwan University, Korea (Sep. 2020)
 
 - Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
-- 📖 Experiences
-----------------
+##### 📖 Experiences
+
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
 - Participated in the Media Monitoring Team at the [Korea Foundation For Suicide Prevention](https://www.kfsp.or.kr/eng) and received an excellence award for automating suicide-risk information detection in SNS (Oct. 2022 ~ Dec. 2022)
@@ -37,14 +36,14 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 - Honorable discharge as Sergeant at Military Service, Korea (Sep. 2020 ~ Feb. 2022)
 
-- Education
-----------------
+##### Education
+
 - Pursuing a Ph.D. degree at Tsinghua University since Sep. 2023
 
 - Completed a B.S. degree in Software from the Department of Applied AI at Sungkyunkwan University with a 4.22/4.5 GPA in Feb. 2023
 
-- 📚 Hobbies
-----------------
+##### 📚 Hobbies
+
 - Piano, Badminton, football, basketball, , ...
 
 <!-- ## Customising
