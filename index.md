@@ -1,8 +1,8 @@
 ---
-title: About Gwihwan Go
+title: Gwihwan Go
 feature_text: |
-  ## Gwihwan Go
-  A Deep Learning Network Engineer
+  ## 안녕하세요! 哈喽！
+  Welcome to my page!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PH.D candidates supervised by Yu jiang"
 ---
@@ -13,35 +13,37 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Features
+## News
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- I've been accepted as a PH.D candidates supervised by [Yu jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
-## Examples
+## 📝 Publications
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+I'm doing my best!!!!
+- None
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+## 🎖 Honors and Awards
 
-## Installation
+- Excellence award, Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
-### Quick setup
+- Student Success Scholarship, Sungkyunkwan University, Korea (Sep. 2020)
+
+- Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
+
+## 📖 Experience
+
+- Research Intern at WingTech Labs, China (Feb. 2023 ~ Present) / Testing Deep Learning Systems
+
+- Participants at Media Monitoring Team, Korea Foundation For Suicide Prevention, Korea (Oct. 2022 ~ Dec. 2022) / Automating Suicide-risk information detection in SNS, development of Suicide-risk information class
+
+- Research Intern at Social AI team, Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Korea (Feb. 2022 ~ Aug. 2022) / Sentiment analysis of SNS(微博) data, analysis of mobility data, and COVID-19 forecasting
+
+- Teaching Assistant at Problem Solving and Algorithm, Sungkyunkwan University, Korea (Sep. 2022 ~ Dec. 2022)
+
+- Honorable discharge as Sergeant at Military Service, Korea (Sep. 2020 ~ Feb. 2022)
+
+### Education
+
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
