@@ -12,28 +12,18 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ---
 
 ##### 🔥 News
-
-
 - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
-
 ---
-
 ##### 📝 Publications
-
 ---
-
 ##### 🎖 Honors and Awards
-
 - [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
 - Student Success Scholarship, Sungkyunkwan University, Korea (Sep. 2020)
 
 - Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
-
 ---
-
 ##### 📖 Experiences
-
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
 - Participated in the Media Monitoring Team at the [Korea Foundation For Suicide Prevention](https://www.kfsp.or.kr/eng) and received an excellence award for automating suicide-risk information detection in SNS (Oct. 2022 ~ Dec. 2022)
@@ -43,19 +33,13 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 - Teaching Assistant at Problem Solving and Algorithm, Sungkyunkwan University, Korea (Sep. 2022 ~ Dec. 2022)
 
 - Honorable discharge as Sergeant at Military Service, Korea (Sep. 2020 ~ Feb. 2022)
-
 ---
-
 ##### 🎓 Education
-
 - Pursuing a Ph.D. degree at Tsinghua University since Sep. 2023
 
 - Completed a B.S. degree in Software from the Department of Applied AI at Sungkyunkwan University with a 4.22/4.5 GPA in Feb. 2023
-
 ---
-
 ##### 📚 Hobbies
-
 - Piano, Badminton, football, basketball, , ...
 
 <!-- ## Customising
