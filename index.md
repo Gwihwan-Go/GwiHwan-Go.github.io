@@ -11,14 +11,14 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 🔥 News<br>
+##### 🔥 News <br><br>
 
 
-- 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+  - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
 ---
 
-##### 📝 Publications<br>
+##### 📝 Publications <br><br>
 
 
 ---
