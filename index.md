@@ -63,6 +63,11 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 - Piano, Badminton, football, basketball, , ...
 
+---
+
+##### Funny Facts
+
+- I'm a fan of Steph Curry
 <!-- ## Customising
 
 When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
