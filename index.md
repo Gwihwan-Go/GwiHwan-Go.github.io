@@ -11,19 +11,19 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 🔥 News
+##### 🔥 News<br>
 
 
 - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
 ---
 
-##### 📝 Publications
+##### 📝 Publications<br>
 
 
 ---
 
-##### 🎖 Honors and Awards
+##### 🎖 Honors and Awards<br>
 
 
 - [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
@@ -34,7 +34,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 📖 Experiences
+##### 📖 Experiences<br>
 
 
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
@@ -68,6 +68,8 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ##### Funny Facts
 
 - I'm a fan of Steph Curry
+
+
 <!-- ## Customising
 
 When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
