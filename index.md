@@ -34,7 +34,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 📖 Experiences<br>
+##### 📖 Experiences <br><br>
 
 
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
@@ -49,7 +49,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 🎓 Education
+##### 🎓 Education <br><br>
 
 
 - Pursuing a Ph.D. degree at Tsinghua University since Sep. 2023
@@ -58,14 +58,14 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ---
 
-##### 📚 Hobbies
+##### 📚 Hobbies <br><br>
 
 
 - Piano, Badminton, football, basketball, , ...
 
 ---
 
-##### Funny Facts
+##### Funny Facts <br><br>
 
 - I'm a fan of Steph Curry
 
