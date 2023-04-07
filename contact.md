@@ -16,16 +16,20 @@ aside: true
 <style>
 .photo {
   border: 2px solid #ccc;
-  border-radius: 10px;
+  border-radius: 50%; /* make the container circular */
   box-shadow: 0 0 5px #ccc;
   display: inline-block;
   margin: 10px;
   padding: 5px;
+  width: 100px; /* set the width of the container */
+  height: 100px; /* set the height of the container */
+  overflow: hidden; /* hide any parts of the image that exceed the container */
 }
 
 .photo img {
   display: block;
-  width: 100%;
+  max-width: 100%; /* make the image fit inside the container */
+  border-radius: 50%; /* make the image circular */
 }
 
 .photo a {
@@ -42,7 +46,7 @@ aside: true
   right: -10px;
   bottom: -10px;
   border: 5px solid #fff;
-  border-radius: 10px;
+  border-radius: 50%; /* make the border circular */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   opacity: 0;
   transition: opacity 0.2s ease;
@@ -55,5 +59,3 @@ aside: true
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css">
-
-
