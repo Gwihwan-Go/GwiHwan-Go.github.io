@@ -3,7 +3,7 @@ title: Gwihwan Go
 feature_text: |
   ## 안녕하세요!!
   Welcome to my page!
-feature_image: "/assets/photos/feature_img1.png"
+feature_image: "/assets/photos/feature_img2.jpeg"
 excerpt: "I'm looking forward to working with you!"
 ---
 
