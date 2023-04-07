@@ -117,7 +117,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   144: '/assets/ggh_logos/logo@144px.png'
   180: '/assets/ggh_logos/logo@180px.png'
   512: '/assets/ggh_logos/logo@512px.png'
-  1024: '/assets/ggh_logos/logo@1024px.png'
+  # 1024: '/assets/ggh_logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
