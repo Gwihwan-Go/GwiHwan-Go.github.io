@@ -25,6 +25,7 @@ aside: true
 
 .photo img {
   display: block;
+  border-radius: 20%;
   width: 100%;
 }
 
