@@ -1,7 +1,7 @@
 ---
 title: Contact me
 feature_text: |
-  Contact me whenever you want
+  ## I'm looking forward to working with you!
 feature_image: /assets/photos/feature_img2.jpeg
 excerpt: "I'm looking forward to working with you!"
 aside: true
@@ -9,7 +9,7 @@ aside: true
 
 <div class="photo">
   <a href="/assets/photos/hyehua_my_photo_large.jpeg" data-lightbox="my-photos">
-    <img src="/assets/photos/hyehua_my_photo.jpeg" alt="">
+    <img src="/assets/photos/hyehua_my_photo.jpeg" alt="" width="200" height="200">
   </a>
 </div>
 
@@ -21,8 +21,8 @@ aside: true
   display: inline-block;
   margin: 10px;
   padding: 5px;
-  width: 400px; /* set the width of the container */
-  height: 400px; /* set the height of the container */
+  width: 200px; /* set the width of the container */
+  height: 200px; /* set the height of the container */
   overflow: hidden; /* hide any parts of the image that exceed the container */
 }
 
@@ -54,14 +54,6 @@ aside: true
 
 .photo a:hover:before {
   opacity: 1;
-}
-
-.box {
-  width: 200px;
-  height: 200px;
-  background-color: #ccc;
-  border: 1px solid #999;
-  border-radius: 10px; /* set the radius of the corners */
 }
 </style>
 
