@@ -21,8 +21,8 @@ aside: true
   display: inline-block;
   margin: 10px;
   padding: 5px;
-  width: 100px; /* set the width of the container */
-  height: 100px; /* set the height of the container */
+  width: 400px; /* set the width of the container */
+  height: 400px; /* set the height of the container */
   overflow: hidden; /* hide any parts of the image that exceed the container */
 }
 
@@ -54,6 +54,14 @@ aside: true
 
 .photo a:hover:before {
   opacity: 1;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  border: 1px solid #999;
+  border-radius: 10px; /* set the radius of the corners */
 }
 </style>
 
