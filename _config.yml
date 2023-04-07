@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Gwihwan Go" # Site name or title, also used in jekyll-seo-tag
 logo: '/assets/logos/logo@56px.png' # Site logo, also used in jekyll-seo-tag
-description: "I have not failed. I've just found 10,000 ways that won't work. - Thomas Edison" # Site description and default description, also used in jekyll-seo-tag
+description: "I have not failed. I've just found 10,000 ways that won't work.\n - Thomas Edison" # Site description and default description, also used in jekyll-seo-tag
 url: "https://gwihwan-go.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/GwiHwan-Go/GwiHwan-Go.github.io"
