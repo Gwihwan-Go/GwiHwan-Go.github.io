@@ -100,7 +100,7 @@ url: "https://gwihwan-go.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "return_go.net"
 repo: "https://github.com/GwiHwan-Go/GwiHwan-Go.github.io"
 email: "ie1914@g.skku.edu"
-disqus: "@return__go" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "return__go" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
