@@ -2,7 +2,7 @@
 title: Contact me
 feature_text: |
   Contact me whenever you want
-feature_image: /assets/photos/eunhang.jpeg
+feature_image: /assets/photos/feature_img2.jpeg
 excerpt: "I'm looking forward to working with you!"
 aside: true
 ---
@@ -21,8 +21,8 @@ aside: true
   display: inline-block;
   margin: 10px;
   padding: 5px;
-  width: 70px; /* set the width of the container */
-  height: 50px; /* set the height of the container */
+  width: 100px; /* set the width of the container */
+  height: 100px; /* set the height of the container */
   overflow: hidden; /* hide any parts of the image that exceed the container */
 }
 
