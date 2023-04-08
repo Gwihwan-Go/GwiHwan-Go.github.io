@@ -1,5 +1,7 @@
 ---
-title: Book Review_"Atomic Habits", make your life more valuable
+title: Book Review "Atomic Habits", make your life more valuable
+feature_text: |
+  ## Poverty is not having less, but wanting more.
 categories:
 - Book Review
 - Lifehack
@@ -7,6 +9,8 @@ feature_image: /assets/posts/atomic_habits.png
 ---
 
 First of all, I would like to clarify that this review reflects solely the author's personal feelings and is intended for discussion with others. If you have any doubts or different opinions about what has been mentioned here, please feel free to leave a comment. As John Stuart Mill said, the only way to make our opinions trustworthy is through refinement by discussion with others. We are all prone to being wrong at some point, and even Socrates, who is considered one of the wisest figures in history, was not exempt from making mistakes, so this is entirely natural. That being said, let's begin the review of "Atomic Habits" by James Clear.
+
+---
 
 I came across this book thanks to a recommendation from a friend. If it weren't for that, I wouldn't have read it because I had already experienced the bitter taste of trying and failing to implement the ideas from another book on habits. Previously, I had read "The Power of Habit" and embarked on a six-month project to establish a habit by doing something, even if it was just a little bit every day. I succeeded in forming the habit, but after just one week, all of my hard work was undone, and I returned to my previous state. This made me skeptical about the importance of habits.
 
@@ -41,7 +45,7 @@ Unexpectedly, I gained a lot of inspiration from the book's appendix, and I coul
 
 > Poverty is not having less, but wanting more. Satisfaction is heavily influenced by the level of expectation.
 
-__**In conclusion, we must have goals or motivations that are directly related to my identity. Such goals can naturally adjust my expectations to an appropriate level and fill my days with deep satisfaction.**__
+__In conclusion, we must have goals or motivations that are directly related to my identity. Such goals can naturally adjust my expectations to an appropriate level and fill my days with deep satisfaction.__
 
 
-_Originally from [Naver_blog by return_go(translated by ChatGPT](https://blog.naver.com/ie1914/222616646926)_
+_Originally from [return_go](https://blog.naver.com/ie1914/222616646926)_
