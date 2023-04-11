@@ -14,7 +14,9 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ##### 🔥 News <br><br>
 
 
-  - 2023.03 : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+  - [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+
+  - [2023.04] : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school!
 
 ---
 
