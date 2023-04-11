@@ -1,5 +1,5 @@
 ---
-title: what kind of book is a poorly written book? 
+title: A book that I think is poorly written.
 categories:
 - Book Review
 - Study Skills
