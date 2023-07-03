@@ -18,6 +18,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
   - 2023.04 : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school!
 
+  - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
 ---
 
 ##### 📝 Publications <br><br>
@@ -27,6 +28,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🎖 Honors and Awards <br><br>
 
+- Chinese Government Scholarship, Chinese Government, China (Sep. 2023 ~ )
 
 - [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
