@@ -12,7 +12,8 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ---
 
 ##### 🔥 News <br><br>
-
+  - 2023.11 : I'm absolutely thrilled to announce that I've also secured the Guanjeong Scholarship, Korea's most distinguished scholarship foundation fueling my educational dreams with unparalleled support!
+  
   - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
 
   - 2023.04 : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school!
