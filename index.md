@@ -7,7 +7,7 @@ feature_image: "/assets/photos/eunhang.jpeg"
 excerpt: "I'm looking forward to working with you!"
 ---
 
-I am currently a first-year Ph.D student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of utilizing DL, and testing DL systems. I also enjoy piano, badminton, football, and basketball. You can check out my recent life-overview from here[here](https://gist.github.com/GwiHwan-Go/eb5d0abf02532775199f267397dc1b3d)
+I am currently a first-year Ph.D student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the Software System Security Assurance Group - [WingTecher Lab](http://www.wingtecher.com/homeen). I received my B.S. degree in Software from Sungkyunkwan University, Korea, in Feb. 2023. My research interest is in the area of utilizing DL, and testing DL systems. I also enjoy piano, badminton, football, and basketball. You can check out my recent life-overview from [here](https://gist.github.com/GwiHwan-Go/eb5d0abf02532775199f267397dc1b3d)
 
 ---
 
