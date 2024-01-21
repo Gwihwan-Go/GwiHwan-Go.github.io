@@ -42,7 +42,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 📖 Experiences <br><br>
 
-- Sub-Reviewer for FSE/ESEC 2024
+- Sub-Reviewer for FSE/ESEC'24, ISSTA'24.
 
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
