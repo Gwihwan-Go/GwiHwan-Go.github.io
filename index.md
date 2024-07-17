@@ -13,15 +13,13 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🔥 News <br><br>
 
-  - 2024.07 : DeepConstr is accepted to ISSTA'24. See you in September in Vienna!
+  - 2024.07 : DeepConstr is accepted to ISSTA'24. Looking forward to seeing you in Vienna, Austria, in September!
 
   - 2024.07 : PolyJuice is accepted to OOPSLA'24.
 
   - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 
   - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
-
-  <!-- - 2023.04 : The School of Software's football team, which I am a member of, made it to the top 8 in the whole school! -->
 
   - [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
@@ -31,14 +29,14 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 📝 Publications <br><br>
 
-- Towards More Complete Constraints for Deep Learning Library Testing via Compleme<br>ntary Set Guided Refinement(ISSTA'24)[to appear]
-  <br>**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Yu Jiang
+- Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement(ISSTA'24)[to appear]
+  <br><small>**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Yu Jiang</small><br>
 
 - PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting(OOPSLA'24)[to appear]
-  <br>Chijin Zhou, Bingzhou Qian, **Gwihwan Go**, Quan Zhang, Shanshan Li, Yu Jiang<br>
+  <br><small>Chijin Zhou, Bingzhou Qian, **Gwihwan Go**, Quan Zhang, Shanshan Li, Yu Jiang</small><br>
 
 - Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications(FSE-IVR'24)[[PDF](https://arxiv.org/abs/2404.17196)]
-  <br>Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Yu Jiang<br>
+  <br><small>Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Yu Jiang</small><br>
 
 ---
 
