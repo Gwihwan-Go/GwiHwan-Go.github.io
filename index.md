@@ -30,13 +30,16 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ##### 📝 Publications <br><br>
 
 - Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement(ISSTA'24)[[preprint](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), [english](to be uploaded))]
-  <br><small>**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Yu Jiang</small><br>
+  <br><small>**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Zichen Xu, Yu Jiang</small><br>
+
+- Imperceptible Content Poisoning in LLM-Powered Applications(ASE'24)[to appear]
+  <br><small>Quan Zhang, Chijin Zhou, **Gwihwan Go**, Binqi Zeng, Heyuan Shi, Yu Jiang</small><br>
 
 - PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting(OOPSLA'24)[to appear]
   <br><small>Chijin Zhou, Bingzhou Qian, **Gwihwan Go**, Quan Zhang, Shanshan Li, Yu Jiang</small><br>
 
 - Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications(FSE-IVR'24)[[PDF](https://arxiv.org/abs/2404.17196)]
-  <br><small>Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Yu Jiang</small><br>
+  <br><small>Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Heyuan Shi, Yu Jiang</small><br>
 
 ---
 
