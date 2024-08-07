@@ -13,9 +13,9 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🔥 News <br><br>
 
-  - 2024.07 : DeepConstr is accepted to ISSTA'24. Looking forward to seeing you in Vienna, Austria, in September!
+  - 2024.08 : Content-Poisoning is accepted to ASE'24.
 
-  - 2024.07 : PolyJuice is accepted to OOPSLA'24.
+  - 2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
 
   - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 
