@@ -59,13 +59,15 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 - Sub-Reviewer for FSE/ESEC'24, ISSTA'24, and ASE'24.
 
+- Intern at Dev Infra-Quality and Experience-Quality Intelligence team, ByteDance (July. 2024 ~ Sep. 2024) / Applying LLMs to Testing Server Systems
+
 - Research Intern at [WingTecher Lab](http://www.wingtecher.com/homeen), China (Feb. 2023 ~ Aug. 2023) / Testing Deep Learning Systems
 
 - Participated in the Media Monitoring Team at the [Korea Foundation For Suicide Prevention](https://www.kfsp.or.kr/eng) and received an excellence award for automating suicide-risk information detection in SNS (Oct. 2022 ~ Dec. 2022)
 
 - Research Intern at [Social AI team](https://sites.google.com/view/datasciencelab), Data Science & Artificial Intelligence Laboratory, Sungkyunkwan University, Korea (Feb. 2022 ~ Aug. 2022) / Sentiment analysis of SNS(微博) data, analysis of mobility data, and COVID-19 forecasting
 
-- Teaching Assistant at Problem Solving and Algorithm, Sungkyunkwan University, Korea (Sep. 2022 ~ Dec. 2022)
+- Teaching Assistant at Problem-Solving and Algorithm, Sungkyunkwan University, Korea (Sep. 2022 ~ Dec. 2022)
 
 - Honorable discharge as Sergeant at Military Service, Korea (Sep. 2020 ~ Feb. 2022)
 
