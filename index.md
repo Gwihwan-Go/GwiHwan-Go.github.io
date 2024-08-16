@@ -13,45 +13,45 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🔥 News <br><br>
 
-  - 2024.08 : Content-Poisoning is accepted to ASE'24.
+2024.08 : Content-Poisoning is accepted to ASE'24.
 
-  - 2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
+2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
 
-  - 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
+2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 
-  - 2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
+2023.06 : I am honored to be selected as an awardee of the Chinese Government Scholarship (CGS), the most prestigious scholarship granted to international students in China.
 
-  - [2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
+[2023.03](https://yzbm.tsinghua.edu.cn/publish/s05/s0501/detail/f869fcc1-c215-47a6-b7d9-fa6ec9781738) : I have been admitted to the Ph.D. program under the supervision of [Yu Jiang](https://sites.google.com/site/jiangyu198964/home) at Tsinghua University, China
 
-  - 2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
+2022.02 : I acquired my Bachelor's degree in Applied AI from Sungkyunkwan University, Korea
   
 ---
 
 ##### 📝 Publications <br><br>
 
-- **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[preprint](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), english(to be uploaded))]
+**Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[preprint](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), english(to be uploaded))]
 _**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Zichen Xu, Yu Jiang_
 
-- **Imperceptible Content Poisoning in LLM-Powered Applications**(ASE'24)[to appear]
+**Imperceptible Content Poisoning in LLM-Powered Applications**(ASE'24)[to appear]
   _Quan Zhang, Chijin Zhou, **Gwihwan Go**, Binqi Zeng, Heyuan Shi, Yu Jiang_
 
-- **PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting**(OOPSLA'24)[to appear]
-  _Chijin Zhou, Bingzhou Qian, **Gwihwan Go**, Quan Zhang, Shanshan Li, Yu Jiang_
+**PolyJuice: Detecting Mis-Compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting**(OOPSLA'24)[to appear]
+_Chijin Zhou, Bingzhou Qian, **Gwihwan Go**, Quan Zhang, Shanshan Li, Yu Jiang_
 
-- **Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**(FSE-IVR'24)[[PDF](https://arxiv.org/abs/2404.17196)]
-  _Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Heyuan Shi, Yu Jiang_
+**Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications**(FSE-IVR'24)[[PDF](https://arxiv.org/abs/2404.17196)]
+_Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Heyuan Shi, Yu Jiang_
 
 ---
 
 ##### 🎖 Honors and Awards <br><br>
 
-- Chinese Government Scholarship, Chinese Government, China (Sep. 2023 ~ )
+Chinese Government Scholarship, Chinese Government, China (Sep. 2023 ~ )
 
-- [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
+[Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
 
-- Student Success Scholarship, Sungkyunkwan University, Korea (Sep. 2020)
+Student Success Scholarship, Sungkyunkwan University, Korea (Sep. 2020)
 
-- Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
+Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
 ---
 
