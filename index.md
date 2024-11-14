@@ -29,7 +29,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 📝 Publications <br><br>
 
-**Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[preprint](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), english(to be uploaded))]
+**Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[PDF](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), english(to be uploaded))]
 _**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Zichen Xu, Yu Jiang_
 
 **Imperceptible Content Poisoning in LLM-Powered Applications**(ASE'24)[to appear]
