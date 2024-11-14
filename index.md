@@ -57,7 +57,7 @@ Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
 ##### 📖 Experiences <br><br>
 
-- Sub-Reviewer for FSE/ESEC'24, ISSTA'24, and ASE'24.
+- Sub-Reviewer for FSE'25, FSE/ESEC'24, ISSTA'24, and ASE'24.
 
 - Intern at Dev Infra-Quality and Experience-Quality Intelligence team, ByteDance (July. 2024 ~ Sep. 2024) / Applying LLMs to Testing Server Systems
 
