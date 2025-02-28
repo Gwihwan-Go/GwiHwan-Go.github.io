@@ -45,6 +45,8 @@ _Quan Zhang, Binqi Zeng, Chijin Zhou, **Gwihwan Go**, Heyuan Shi, Yu Jiang_
 
 ##### 🎖 Honors and Awards <br><br>
 
+[The 23rd KwanJeong Scholarship](https://www.ikef.or.kr/bbs/board.php?bo_table=m33&wr_id=9615&sca=2024%EB%85%84+%EA%B4%80%EC%A0%95%EB%89%B4%EC%8A%A4), KwanJeong Educational Foundation, Korea (Sep. 2023~)
+
 Chinese Government Scholarship, Chinese Government, China (Sep. 2023 ~ )
 
 [Excellence award](http://infoethics.or.kr/main?tpf=board/view&board_code=1&code=121), Korea Society of Information Communication Security Ethics, Korea (Dec. 2022)
@@ -56,6 +58,8 @@ Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 ---
 
 ##### 📖 Experiences <br><br>
+
+- Security 25 Artifact Evaluation Committee Member
 
 - Sub-Reviewer for FSE'25, FSE/ESEC'24, ISSTA'24, and ASE'24.
 
