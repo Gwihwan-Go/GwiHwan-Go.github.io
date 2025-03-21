@@ -59,7 +59,9 @@ Scholarship for academic excellence, Sungkyunkwan University, Korea (Sep. 2018)
 
 ##### 📖 Experiences <br><br>
 
-- Security 25 Artifact Evaluation Committee Member
+- [ICSEA'25](https://www.iaria.org/conferences2025/ComICSEA25.html) Program Committee
+
+- Security'25 Artifact Evaluation Committee Member
 
 - Sub-Reviewer for FSE'25, FSE/ESEC'24, ISSTA'24, and ASE'24.
 
