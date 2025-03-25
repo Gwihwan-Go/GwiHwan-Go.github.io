@@ -13,9 +13,11 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🔥 News <br><br>
 
+2025.03 : LSPAI is accepted to FSE-companion'25! Looking forward to seeing you in Trondheim, Norway , in June!
+
 2024.08 : Content-Poisoning is accepted to ASE'24.
 
-2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. Looking forward to seeing you in Vienna, Austria, in September!
+2024.07 : PolyJuice and DeepConstr are accepted to OOPSLA'24 and ISSTA'24, respectively. 
 
 2024.04 : Retrieval-Poisoning is accepted to FSE-IVR'24.
 
@@ -29,7 +31,10 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 📝 Publications <br><br>
 
-**Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[PDF](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), english(to be uploaded))]
+**LSPAI: An IDE Plugin for LLM-Powered Multi-Language Unit Test Generation with Language Server Protocol**(FSE-companion'25)[[PDF](to be uploaded)]
+_**Gwihwan Go**, Chijin Zhou, Quan Zhang, Yu Jiang, Zhao Wei_
+
+**Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[PDF](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), [english](https://conf.researchr.org/home/issta-2024)])
 _**Gwihwan Go**, Chijin Zhou, Quan Zhang, Xiazijian Zou, Heyuan Shi, Zichen Xu, Yu Jiang_
 
 **Imperceptible Content Poisoning in LLM-Powered Applications**(ASE'24)[to appear]
