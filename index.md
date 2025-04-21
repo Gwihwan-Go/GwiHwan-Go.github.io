@@ -31,7 +31,7 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 📝 Publications <br><br>
 
-**LSPAI: An IDE Plugin for LLM-Powered Multi-Language Unit Test Generation with Language Server Protocol**(FSE-companion'25)[[PDF](files/papers/FSE-Industry25_LSPAI.pdf)]
+**LSPAI: An IDE Plugin for LLM-Powered Multi-Language Unit Test Generation with Language Server Protocol**(FSE-companion'25)[[PDF](files/papers/FSE-Industry25-LSPAI.pdf)]
 _**Gwihwan Go**, Chijin Zhou, Quan Zhang, Yu Jiang, Zhao Wei_
 
 **Towards More Complete Constraints for Deep Learning Library Testing via Complementary Set Guided Refinement**(ISSTA'24)[[PDF](files/papers/ISSTA24_DeepConstr.pdf), talks([chinse](https://drive.google.com/file/d/1D6Ens_3Y0SQMEjkjGTmkakO4o1bRAXkM/view?usp=sharing), [english](https://conf.researchr.org/home/issta-2024)])
