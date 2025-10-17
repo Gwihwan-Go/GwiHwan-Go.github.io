@@ -13,7 +13,9 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 
 ##### 🔥 News <br><br>
 
-2025.03 : LSPAI is accepted to FSE-companion'25! Looking forward to seeing you in Trondheim, Norway , in June!
+2025.10 : LSPRAG is accepted to ICSE'26!
+
+2025.03 : LSPAI is accepted to FSE-companion'25.
 
 2024.08 : Content-Poisoning is accepted to ASE'24.
 
@@ -30,6 +32,10 @@ I am currently a first-year Ph.D student at Tsinghua University, Beijing, China,
 ---
 
 ##### 📝 Publications <br><br>
+
+**LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation**(ICSE'26)
+_**Gwihwan Go**, Quan Zhang, Chijin Zhou, Zhao Wei, Yu Jiang_
+
 
 **LSPAI: An IDE Plugin for LLM-Powered Multi-Language Unit Test Generation with Language Server Protocol**(FSE-companion'25)[[PDF](files/papers/FSE-Industry25-LSPAI.pdf)]
 _**Gwihwan Go**, Chijin Zhou, Quan Zhang, Yu Jiang, Zhao Wei_
